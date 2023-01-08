@@ -12,9 +12,9 @@ Dependencias de NodeJS:
 npm install
 ```
 
-# Manejador de CSV de Mercadoenvíos
+## Manejador de CSV de Mercadoenvíos
 
-# Creamos una base de datos para manipular el .csv de forma optimizada
+## Creamos una base de datos para manipular el .csv de forma optimizada
 
 Entramos en la CLI de SQLITE3
 ```
@@ -33,7 +33,7 @@ create table deposito(id_pieza INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, tipo,
 .exit 
 ```
 
-# Corremos la aplicación
+## Corremos la aplicación
 
 ```
 node main.js
